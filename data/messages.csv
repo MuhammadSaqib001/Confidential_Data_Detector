@@ -1,6 +1,1 @@
-chat_id,user_id,role,message_content
-8a4cc431-5ecd-435a-89fe-075663e91976,saqib,,"hello admin , how are you ?"
-8a4cc431-5ecd-435a-89fe-075663e91976,saqib,,"no , bro"
-76525b56-6b7f-4837-a78d-ff50ef76272e,saqib,,"hello admin , how are you ?"
-76525b56-6b7f-4837-a78d-ff50ef76272e,admin,,I am good how are you saqib ?
-76525b56-6b7f-4837-a78d-ff50ef76272e,saqib,,"admin , can i share my credit number with you ?"
+user_id,message_content
